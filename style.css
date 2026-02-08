@@ -153,8 +153,8 @@ h2{
 }
 
 #infoImg{
-  width:;
-  max-height: 300px;
+  width 40%;;
+  max-height: 400px;
   object-fit: cover;
   border-radius:12px;
   margin: 8px 0 10px;
